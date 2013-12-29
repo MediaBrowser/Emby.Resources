@@ -1,6 +1,7 @@
-If you add a new image please add a line to this file
+If you add a new image please add a line to either of these files depending on the type of image added:
 
-https://github.com/MediaBrowser/MediaBrowser/blob/master/MediaBrowser.Providers/Studios/images.txt
+https://github.com/MediaBrowser/MediaBrowser/blob/master/MediaBrowser.Providers/Studios/posters.txt
+https://github.com/MediaBrowser/MediaBrowser/blob/master/MediaBrowser.Providers/Studios/thumbs.txt
 
 One entry per line.
 
