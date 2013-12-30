@@ -3,6 +3,7 @@ Action & Adventure
 Action And Adventure
 Adventure
 Animation
+Arabic
 Biography
 Biopics
 Children
@@ -16,11 +17,15 @@ Foreign
 History
 Horror
 Kids
+Mini Series
+Mini-Series
 Music
 Musical
 Mystery
 Period & Historical
 Period And Historical
+Reality
+Reality-Tv
 Romance
 Sci-Fi
 Sci-Fi & Fantasy
@@ -29,8 +34,12 @@ Science Fiction & Fantasy
 Science Fiction And Fantasy
 Science-Fiction
 scifi
+Short
+Short Films
 Sport
 Suspense
+Talk Show
+Talk-Show
 Thriller
 War
 War Films
