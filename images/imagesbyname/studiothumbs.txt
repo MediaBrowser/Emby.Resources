@@ -21,6 +21,7 @@ Alli
 Alliance Entertainment
 Alloy
 AllWarriorNetwork
+AMC
 American Pop Classics
 Ananey
 Anchor Bay Entertainment
@@ -40,6 +41,10 @@ Avalon UK
 Azteca America
 Bandai
 Base 79
+BBC America
+BBC One
+BBC Three
+BBC Two
 BBC Worldwide
 Beliefnet
 Believe
@@ -68,6 +73,7 @@ Candlelight Media
 Candor TV
 Caracol Television
 Carsey Werner
+Cartoon Network
 CBS
 CelebTV
 Charlie Rose
@@ -113,8 +119,9 @@ Debutante Inc
 Digital Artists
 Digital Rights Group
 Digital Studios
-Discovery Channel
 Discovery
+Discovery Channel
+Disney XD
 Distribber
 Diva
 DIY Network
@@ -196,6 +203,7 @@ GT Media
 H2
 Handmade TV
 Hat Trick
+HBO
 HD Films, Inc
 Health Science Channel
 HealthiNation
@@ -203,7 +211,7 @@ HereTV
 HGTV
 Historic Films
 History
-History en Español
+History en Espa¤ol
 HitFix
 Hollywood Pictures
 How it Works
@@ -373,8 +381,10 @@ Shaftesbury
 Shemaroo
 Shochiku
 Shout! Factory
+Showcase
 Showtime
 Shree International
+SiFi
 Sky Studios
 SnagFilms
 SOFA
@@ -383,6 +393,7 @@ Sonar Entertainment
 Sony Pictures Television
 SoPeachi
 Source Interlink Media
+Space
 SpaceRip
 SPEED
 Speed Racer Enterprises
@@ -408,6 +419,7 @@ The CW
 The Democratic National Convention
 The Denis Leary Podcasts
 The Global Film Initiative
+The Hub
 The Jim Henson Company
 The Kitchen Diva
 The LXD
@@ -422,6 +434,7 @@ The Rebound
 The Situation Workout
 The Sundance Institute
 The Three Stooges
+The WB
 The Weinstein Company
 The White House
 The Wine Library
@@ -432,6 +445,7 @@ Tiny Island Productions
 TLA Releasing
 TLC
 TMS Entertainment
+TNT
 Toei Animation
 Tokyopop
 Total College Sports
