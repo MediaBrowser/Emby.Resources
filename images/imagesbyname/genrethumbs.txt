@@ -16,6 +16,7 @@ Family
 Fantasy
 Film-Noir
 Foreign
+Game Show
 History
 Horror
 Indie
@@ -25,6 +26,7 @@ Mini-Series
 Music
 Musical
 Mystery
+News
 Period & Historical
 Period And Historical
 Reality
