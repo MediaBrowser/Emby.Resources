@@ -1,4 +1,4 @@
-1492 Pictures
+﻿1492 Pictures
 15 Gigs
 19 Entertainment
 1984 Private Defense Contractors
@@ -33,6 +33,7 @@ Alli
 Alliance Entertainment
 Alloy
 AllWarriorNetwork
+Amblin Entertainment
 AMC
 American Pop Classics
 Ananey
