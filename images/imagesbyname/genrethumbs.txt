@@ -6,6 +6,7 @@ Animation
 Arabic
 Biography
 Biopics
+Bollywood
 Children
 Comedy
 Crime
@@ -13,9 +14,11 @@ Documentary
 Drama
 Family
 Fantasy
+Film-Noir
 Foreign
 History
 Horror
+Indie
 Kids
 Mini Series
 Mini-Series
