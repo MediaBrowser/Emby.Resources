@@ -347,6 +347,7 @@ Paley Media
 Panna
 Paranormal TV
 Passion River
+PBS
 PBS Kids
 Phase 4 Films
 Players Network
@@ -487,6 +488,7 @@ Universal Sports
 Universal Television
 Univision
 unwrapped.tv
+UPN
 USA
 USA Network
 uStudio
