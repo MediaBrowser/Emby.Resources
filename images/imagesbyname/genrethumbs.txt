@@ -3,8 +3,10 @@ Action & Adventure
 Action And Adventure
 Adventure
 Animation
+Arabic
 Biography
 Biopics
+Bollywood
 Children
 Comedy
 Crime
@@ -12,15 +14,23 @@ Documentary
 Drama
 Family
 Fantasy
+Film-Noir
 Foreign
+Game Show
 History
 Horror
+Indie
 Kids
+Mini Series
+Mini-Series
 Music
 Musical
 Mystery
+News
 Period & Historical
 Period And Historical
+Reality
+Reality-Tv
 Romance
 Sci-Fi
 Sci-Fi & Fantasy
@@ -29,8 +39,12 @@ Science Fiction & Fantasy
 Science Fiction And Fantasy
 Science-Fiction
 scifi
+Short
+Short Films
 Sport
 Suspense
+Talk Show
+Talk-Show
 Thriller
 War
 War Films
