@@ -46,6 +46,7 @@ AMC
 American Pop Classics
 Ananey
 Anchor Bay Entertainment
+Anchor Bay Films
 Anderson Digital
 Animal Planet
 Animation Domination High-Def
@@ -77,6 +78,7 @@ Base 79
 Bazelevs
 Bazelevs Production
 BBC America
+BBC HD
 BBC One
 BBC Three
 BBC Two
@@ -108,6 +110,7 @@ Blue Sky Studios
 Blue Star Entertainment
 Bluegrass Films
 Blumhouse Productions
+Bob Yari Productions
 Bold Films
 Boll Kino Beteiligungs GmbH & Co. KG
 Bonnier TV Group
@@ -117,6 +120,7 @@ Brainstorm Media
 Brave New Films
 Bravo
 Brightlight Pictures
+British Broadcasting Corporation (BBC)
 British Film Council
 Broadway Video
 Broken Lizard
@@ -203,6 +207,7 @@ Contrafilm
 Cooking Channel
 Crackle
 Crime & Investigation Network
+Crime Scene Pictures
 Criterion Collection
 CRM
 Cross Creek Pictures
@@ -308,16 +313,20 @@ FORA.tv
 Ford
 FOX
 Fox College Sports
+Fox Film Corporation
 Fox Movie Channel
 Fox News
 Fox Reality
+Fox Searchlight Pictures
 Fox Sports
 Fox Sports Net
 Fox Television Classics
 Frantic Films
 FremantleMedia
 FUEL TV
+Fuji Television Network
 FUNimation
+Fuzzy Door Productions
 FX
 FXM
 FXX
@@ -344,6 +353,7 @@ HBO
 HD Films, Inc
 Health Science Channel
 HealthiNation
+Hemisphere Media Capital
 HereTV
 HGTV
 Historic Films
@@ -364,6 +374,7 @@ IFC Films
 IGN
 Image Entertainment
 Imagina US
+Immortal Entertainment
 Independent Comedy Network
 Independent International Pictures Corp
 Indie Crush
@@ -372,6 +383,7 @@ itsallinyourhands.tv
 ITV
 ITV1
 Janson Media
+Jerry Bruckheimer Films
 Jim Henson Family TV
 K2
 KCET
@@ -400,6 +412,7 @@ Look
 Lou Reda Productions
 Lucha Libre USA
 LXTV
+Madman
 MAN
 Manga Entertainment
 Manolin Studios
@@ -444,6 +457,7 @@ NBCU TV
 NCircle
 Netflix
 New Renaissance
+New Zealand Film Commission
 NHL
 Nickelodeon
 NickMom
@@ -463,11 +477,15 @@ Oscilloscope Laboratories
 Oxygen
 Paley Media
 Panna
+Parallel Film Productions
+Paramount Pictures Corporation
 Paranormal TV
 Passion River
 PBS
 PBS Kids
 Phase 4 Films
+Phoenix Pictures
+Pixar Animation Studios
 Players Network
 Plum TV
 PopSugar TV
@@ -506,6 +524,7 @@ S and S Entertainment
 Saavn
 Sachs Judah
 Salient Media
+Samuel Goldwyn Films
 Satelight
 Saturday Morning TV
 SBS
@@ -523,6 +542,7 @@ Shout! Factory
 Showcase
 Showtime
 Shree International
+Sidney Kimmel Entertainment
 Sky Studios
 SnagFilms
 SOFA
@@ -537,12 +557,14 @@ SPEED
 Speed Racer Enterprises
 Spike
 Spike TV
+Stage 6 Films
 Stand Up To Cancer
 Starz
 Strand Releasing
 Strike.TV
 Sundance Channel
 SunWorld Pictures
+Sveriges Television (SVT)
 Sweet Irony
 Syfy
 Syndicado
@@ -551,6 +573,7 @@ Talking Baseball with Ed Randall
 Tantao Entertainment
 TasteTV
 Telepictures
+Temple Hill Productions
 TenduTV
 The Cannell Studios
 The CW
@@ -594,15 +617,22 @@ Tr3s
 Transworld
 Travel Channel
 Troma
+Turner Network Television (TNT)
 TV Globo
 TV Land
 TVF International
 TVG Interactive Horseracing
 TVGN
 Twentieth Century Fox
+Twentieth Century Fox Film Corporation
+Twentieth Century-Fox
+Twentieth Century-Fox Film Corporation
+Type A Films
 Uncork'd Entertainment
 UniMas
+Universal
 Universal Pictures
+Universal Pictures Corporation
 Universal Sports
 Universal Television
 Univision
@@ -611,9 +641,11 @@ UPN
 USA
 USA Network
 uStudio
+Valhalla Motion Pictures
 Vanguard Cinema
 Venevision
 Venus
+Vertigo Films
 VH1
 Vibrant Media
 Videofashion
@@ -625,6 +657,11 @@ Vivendi Entertainment
 VIZ Media
 Vogue.TV
 Wall Street Journal
+Walt Disney Pictures
+Warner Bros
+Warner Bros Pictures
+Warner Bros. Entertainment
+Warner Bros. Pictures
 Warner Bros. Records
 WatchMojo.com
 Water.org
@@ -646,3 +683,4 @@ Zeitgeist Films
 Zodiak Kids
 Zodiak Rights
 ZoomTV
+Zweites Deutsches Fernsehen (ZDF)
