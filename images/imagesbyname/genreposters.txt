@@ -3,24 +3,35 @@ Action & Adventure
 Action And Adventure
 Adventure
 Animation
+Anime
 Arabic
 Biography
 Biopics
 Bollywood
+Cartoon
 Children
+Christian
+Christmas
+Classic B&w
+Classics
 Comedy
 Crime
+Disaster
 Documentary
 Drama
+Eastern
 Family
 Fantasy
 Film-Noir
+Fitness
 Foreign
 Game Show
 History
+Holiday
 Horror
 Indie
 Kids
+Martial Arts
 Mini Series
 Mini-Series
 Music
@@ -29,6 +40,7 @@ Mystery
 News
 Period & Historical
 Period And Historical
+Psychological Thriller
 Reality
 Reality-Tv
 Romance
@@ -41,7 +53,9 @@ Science-Fiction
 scifi
 Short
 Short Films
+Slasher
 Sport
+Stand Up
 Suspense
 Talk Show
 Talk-Show
