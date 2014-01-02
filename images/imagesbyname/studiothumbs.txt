@@ -1,4 +1,4 @@
-﻿1492 Pictures
+1492 Pictures
 15 Gigs
 19 Entertainment
 1984 Private Defense Contractors
@@ -6,16 +6,16 @@
 20th Century Fox Home Entertainment
 20th Century Fox Television
 20th Television
-21 Laps
+21 Laps Entertainment
 24P Media Group
 2929 Productions
 3 Arts Entertainment
 321 Productions
 4K Media
 4Kids Entertainment
-A La Carte Communications
 A Band Apart
 A Bigger Boat
+A La Carte Communications
 A&E
 Aardman
 Abandon Entertainment
@@ -29,14 +29,14 @@ Acacia Fitness
 Action Television
 Advertising Age
 After Dark Films
-Alcon Entertainment
 Alcina Pictures
+Alcon Entertainment
 Aldamisa Entertainment
-Alliance Films
 All Channel Films
 All3Media
 Alli
 Alliance Entertainment
+Alliance Films
 Alloy
 AllWarriorNetwork
 Alphaville Films
@@ -84,9 +84,9 @@ Beacon Communications
 Beacon Pictures
 Bedford Falls Company
 Bedford Falls Productions
+Bel Air Entertainment
 Beliefnet
 Believe
-Bel Air Entertainment
 BET
 Beta Film
 BFI
@@ -100,11 +100,12 @@ bio
 Blame Society
 Blastro Networks
 Bleiberg Entertainment
+Blinding Edge Pictures
 Bloody Disgusting Selects
 Bloomberg
-Bluegrass Films
 Blue Sky Studios
 Blue Star Entertainment
+Bluegrass Films
 Blumhouse Productions
 Bold Films
 Boll Kino Beteiligungs GmbH & Co. KG
@@ -128,9 +129,9 @@ Butaca
 BVTV
 C3 Entertainment
 Camelot Pictures
-Canal+
 Canal 13 de Chile
 Canal Plus
+Canal+
 Candlelight Media
 Candor TV
 Cannon
@@ -181,8 +182,8 @@ CODA BOOKS
 CollegeHumor
 Color Force
 Columbia Pictures
-Columbia Pictures Corporation
 Columbia Pictures Film Production Asia
+Columbia Pictures Productions
 Columbia TriStar Home Entertainment
 Comedy Central
 Comedy Time
@@ -201,33 +202,56 @@ Cooking Channel
 Crackle
 Crime & Investigation Network
 Criterion Collection
+CRM
 Cross Creek Pictures
 Crossroads
 Crossroads Films
-CRM
 Cruel & Unusual Films
 Cruise Wagner Productions
-CruiseWagner Productions
 Cruise-Wagner Productions
+CruiseWagner Productions
 Crystal Sky
 Crystal Sky Pictures
 Crystal Sky Worldwide
 Cuppa Coffee
+Dark Castle Entertainment
+Dark Horse Entertainment
 Dark Sky Films
+Darko Entertainment
 Dave Matthews Band
+Davis Entertainment
+Davis Films
+Davis Films Impact
+Davis Films Impact Pictures
 Davis Panzer
+Davis-Films
+DC Comics
+DC Entertainment
+De Laurentiis
+De Laurentiis Entertainment Group (DEG)
 Debutante Inc
 Digital Artists
 Digital Rights Group
 Digital Studios
+Dimension Films
+Dino De Laurentiis Company
 Discovery
 Discovery Channel
 Disney XD
+DisneyToon Studios
 Distribber
 Diva
 DIY Network
 DocComTV
+Don Simpson Jerry Bruckheimer Films
+Don Simpson-Jerry Bruckheimer Films
+Donners' Company
 DramaFever
+DreamWorks
+DreamWorks Animation
+DreamWorks Pictures
+DreamWorks SKG
+Dune Entertainment
 Duopoly
 E! Entertainment
 EA Sports
@@ -312,7 +336,7 @@ HereTV
 HGTV
 Historic Films
 History
-History en Espa¤ol
+History en Espa�ol
 HitFix
 Hollywood Pictures
 How it Works
@@ -476,6 +500,7 @@ SBS
 SBS Australia
 Scholastic
 Science Channel
+SciFi
 Scott Entertainment
 Screen Media
 Sesame Street
@@ -486,7 +511,6 @@ Shout! Factory
 Showcase
 Showtime
 Shree International
-SciFi
 Sky Studios
 SnagFilms
 SOFA
@@ -520,6 +544,7 @@ The Cannell Studios
 The CW
 The Democratic National Convention
 The Denis Leary Podcasts
+The Donners' Company
 The Global Film Initiative
 The Hub
 The Jim Henson Company
