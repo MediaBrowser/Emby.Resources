@@ -308,6 +308,8 @@ Film4
 Film4 Productions
 FilmBuff
 FilmColony
+FilmDistrict
+FilmEngine
 FilmNation Entertainment
 Finley-Holiday Films
 First Look Studios
@@ -332,6 +334,7 @@ Fox Sports
 Fox Sports Net
 Fox Television Classics
 Fox Television Studios
+Franchise Pictures
 Frantic Films
 FremantleMedia
 FUEL TV
