@@ -108,12 +108,21 @@ Base 79
 Bazelevs
 Bazelevs Production
 Bazmark Films
+BBC 1
+BBC 2
+BBC 3
 BBC America
 BBC HD
 BBC One
 BBC Three
 BBC Two
 BBC Worldwide
+BBC-1
+BBC-2
+BBC-3
+BBC1
+BBC2
+BBC3
 Beacon Communications
 Beacon Pictures
 Bedford Falls Company
@@ -184,14 +193,17 @@ Capcom
 Capitol Films
 Caracol Television
 Carnival Films
+Carolco Entertainment
 Carolco Pictures
 Carolco Pictures Inc
 Carsey Werner
 Cartoon Network
+Castle Rock
 Castle Rock Entertainment
 Cattleya
 CBS
 CBS Films
+Cecchi Gori
 Cecchi Gori Group
 Cecchi Gori Group Tiger Cinematografica
 CelebTV
@@ -205,6 +217,7 @@ Cheyenne Enterprises
 CHIC.TV
 Chiller
 China Film Group
+China Film Group Corporation
 China Lion
 Chockstone Pictures
 Cine Real
@@ -235,14 +248,24 @@ Columbia Pictures
 Columbia Pictures Corporation
 Columbia Pictures Film Production Asia
 Columbia Pictures Productions
+Columbia TriStar
+Columbia TriStar Film
+Columbia TriStar Home
 Columbia TriStar Home Entertainment
+Columbia TriStar Home Video
+Columbia TriStar Motion Picture Group
 Comedy Central
 Comedy Time
 Compass International Pictures
 Conde Nast Digital
+Constantin
 Constantin Film
 Constantin Film International
+Constantin Film Production
 Constantin Film Produktion
+Constantin Film Produktion GmbH
+Constantin Film Produktions
+Constantin Films
 Content and Co
 Content Family
 Content Media Corporation
@@ -267,6 +290,7 @@ Crystal Sky
 Crystal Sky Pictures
 Crystal Sky Worldwide
 Cuppa Coffee
+Dark Castle
 Dark Castle Entertainment
 Dark Horse Entertainment
 Dark Sky Films
