@@ -52,10 +52,17 @@ Anchor Bay Films
 Anderson Digital
 Animal Planet
 Animation Domination High-Def
+Animation Picture Company
+Animationwerks
 Anime Network
 Aniplex
 Anka Film
+Anonymous Content
+Apaches Entertainment
 Apatow Productions
+Arc Productions
+ARD Degeto Film
+Arrowstorm Entertainment
 Artisan Entertainment
 Artists Den Entertainment
 Ascendant Pictures
@@ -879,7 +886,7 @@ Voltage Pictures
 Walden Media
 Wales Creative IP Fund
 Wall Street Journal
-Walt Disney Animation Studio
+Walt Disney Animation Studios
 Walt Disney Pictures
 Warner Bros
 Warner Bros Pictures
@@ -898,6 +905,7 @@ Well Go
 WEP
 Westchester Films
 Why Not Productions
+Wing Nut Productions
 Wolfe Video
 Working Title Films
 WWE
