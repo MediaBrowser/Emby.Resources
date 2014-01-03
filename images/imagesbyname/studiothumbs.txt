@@ -13,6 +13,7 @@
 21 Laps
 21 Laps Entertainment
 24P Media Group
+2929 Entertainment
 2929 Productions
 3 Arts Entertainment
 321 Productions
@@ -25,7 +26,9 @@ A Band Apart
 A Bigger Boat
 A La Carte Communications
 A&E
+A&E Television Networks
 Aardman
+Aardman Animations
 Abandon Entertainment
 Abandon Pictures
 ABC
@@ -51,11 +54,14 @@ Alli
 Alliance Entertainment
 Alliance Films
 Alloy
+Alloy Entertainment
 AllWarriorNetwork
 Alphaville Films
+Alphaville Productions
 Ambience Entertainment
 Amblin Entertainment
 AMC
+American Broadcasting Company (ABC)
 American Pop Classics
 Ananey
 Anchor Bay Entertainment
@@ -72,6 +78,7 @@ Anonymous Content
 Apaches Entertainment
 Apatow Productions
 Arc Productions
+ARD
 ARD Degeto Film
 Arrowstorm Entertainment
 Artisan Entertainment
@@ -82,6 +89,7 @@ aspire TV
 Atlantic Records
 Atlas Entertainment
 Atmosphere Entertainment MM
+Atmosphere Pictures
 Atmosphere Pictures MM
 Attention Span
 Austin City Limits Music Festival
@@ -120,6 +128,7 @@ BFI
 Big Air Studios
 Big Beach
 Big Beach Films
+Big Beach Productions
 Big Talk Pictures
 Big Talk Productions
 BIGFlix
@@ -130,6 +139,7 @@ Bleiberg Entertainment
 Blinding Edge Pictures
 Bloody Disgusting Selects
 Bloomberg
+Blue Sky
 Blue Sky Studios
 Blue Star Entertainment
 Bluegrass Films
@@ -147,6 +157,8 @@ Brightlight Pictures
 Brillstein-Grey Entertainment
 British Broadcasting Corporation (BBC)
 British Film Council
+British Film Institute
+British Film Institute (BFI)
 Broadway Video
 Broken Lizard
 Broken Lizard Films
