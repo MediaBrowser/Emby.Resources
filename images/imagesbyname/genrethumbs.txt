@@ -1,6 +1,7 @@
 Action
 Action & Adventure
 Action And Adventure
+Adult
 Adventure
 Animation
 Anime
@@ -43,6 +44,7 @@ Period And Historical
 Psychological Thriller
 Reality
 Reality-Tv
+Road Movie
 Romance
 Sci-Fi
 Sci-Fi & Fantasy
