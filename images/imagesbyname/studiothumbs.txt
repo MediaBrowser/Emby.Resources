@@ -108,12 +108,21 @@ Base 79
 Bazelevs
 Bazelevs Production
 Bazmark Films
+BBC 1
+BBC 2
+BBC 3
 BBC America
 BBC HD
 BBC One
 BBC Three
 BBC Two
 BBC Worldwide
+BBC-1
+BBC-2
+BBC-3
+BBC1
+BBC2
+BBC3
 Beacon Communications
 Beacon Pictures
 Bedford Falls Company
@@ -184,14 +193,17 @@ Capcom
 Capitol Films
 Caracol Television
 Carnival Films
+Carolco Entertainment
 Carolco Pictures
 Carolco Pictures Inc
 Carsey Werner
 Cartoon Network
+Castle Rock
 Castle Rock Entertainment
 Cattleya
 CBS
 CBS Films
+Cecchi Gori
 Cecchi Gori Group
 Cecchi Gori Group Tiger Cinematografica
 CelebTV
@@ -205,6 +217,7 @@ Cheyenne Enterprises
 CHIC.TV
 Chiller
 China Film Group
+China Film Group Corporation
 China Lion
 Chockstone Pictures
 Cine Real
@@ -235,14 +248,24 @@ Columbia Pictures
 Columbia Pictures Corporation
 Columbia Pictures Film Production Asia
 Columbia Pictures Productions
+Columbia TriStar
+Columbia TriStar Film
+Columbia TriStar Home
 Columbia TriStar Home Entertainment
+Columbia TriStar Home Video
+Columbia TriStar Motion Picture Group
 Comedy Central
 Comedy Time
 Compass International Pictures
 Conde Nast Digital
+Constantin
 Constantin Film
 Constantin Film International
+Constantin Film Production
 Constantin Film Produktion
+Constantin Film Produktion GmbH
+Constantin Film Produktions
+Constantin Films
 Content and Co
 Content Family
 Content Media Corporation
@@ -267,6 +290,7 @@ Crystal Sky
 Crystal Sky Pictures
 Crystal Sky Worldwide
 Cuppa Coffee
+Dark Castle
 Dark Castle Entertainment
 Dark Horse Entertainment
 Dark Sky Films
@@ -293,7 +317,9 @@ Digital Frontier
 Digital Rights Group
 Digital Studios
 Dillywood
+Dimension
 Dimension Films
+Dino De Laurentiis Cinematografica
 Dino De Laurentiis Company
 Discovery
 Discovery Channel
@@ -312,8 +338,10 @@ Donners' Company
 DramaFever
 DreamWorks
 DreamWorks Animation
+DreamWorks Home Entertainment
 DreamWorks Pictures
 DreamWorks SKG
+DreamWorks Studios
 Dune Entertainment
 Duopoly
 E! Entertainment
@@ -331,6 +359,8 @@ Electric Sky
 Eleven
 ELLE
 EMI
+EMI Films
+EMI Films Ltd
 Emmett Furla Films
 Emotion
 Enchanted Tales
@@ -354,6 +384,7 @@ Exclusive Media Group
 ExerciseTV
 Fanclub
 Fangoria
+Fear net
 FEARnet
 Fever Dreams
 Fight TV
@@ -371,6 +402,7 @@ FilmNation Entertainment
 Finley-Holiday Films
 First Look Studios
 First Run Features
+FirstLook Studios
 Flower Films
 Focus Features
 Focus Films
@@ -391,15 +423,19 @@ Fox Sports
 Fox Sports Net
 Fox Television Classics
 Fox Television Studios
+Fox TV
 Franchise Pictures
 Frantic Films
 FremantleMedia
+FUEL
 FUEL TV
 Fuji Television Network
+Fuji TV
 FUNimation
 Fuqua Films
 Fuzzy Door Productions
 FX
+FX Channel
 FXM
 FXX
 G4
@@ -409,7 +445,9 @@ Galavision
 GameTrailers
 Gary Sanchez Productions
 Gaumont
+Gaumont Film Company
 Gaylord Films
+Geffen Company, The
 Geffen Pictures
 Gem
 Generate
@@ -420,7 +458,9 @@ GK Films
 Glamour Films
 Go
 GoDigital
+Goldcrest Films
 Goldcrest Films International
+Golf
 Golf TV
 Gong
 Gorilla Pictures
@@ -430,6 +470,7 @@ Great Oaks Entertainment
 Green Hat Films
 Greenestreet Films
 GreenLight Media
+Grindstone
 Grindstone Entertainment Group
 Grosvenor Park
 Grosvenor Park Media Ltd
@@ -447,6 +488,7 @@ HD Films, Inc
 Health Science Channel
 HealthiNation
 Hemdale Film
+Hemdale Film Corporation
 Hemisphere Media Capital
 HereTV
 Heyday Films
@@ -457,6 +499,8 @@ History en Espa¤ol
 HitFix
 Hollywood Gang Productions
 Hollywood Pictures
+Hollywood Pictures Home Entertainment
+Hollywood Pictures Home Video
 How it Works
 Howcast
 Howdini
@@ -464,7 +508,8 @@ Hudsun Media
 Hulu Original Series
 Hype
 Hypnotic
-Icon  Entertainment International
+Icon Entertainment
+Icon Entertainment International
 Icon Productions
 Iconix
 iCue.com
@@ -477,6 +522,7 @@ Image Entertainment
 ImageMovers
 Imagenation Abu Dhabi FZ
 Imagina US
+Imagine
 Imagine Entertainment
 Immortal Entertainment
 Incentive Filmed Entertainment
@@ -490,9 +536,11 @@ Industry Entertainment
 Inferno Distribution
 Inferno Entertainment
 Infinitum Nihil
+Infinity Features
 Infinity Features Entertainment
 Ingenious Film Partners
 Insurge Pictures
+Intermedia
 Intermedia Films
 Interscope Communications
 Irish Film Board
@@ -507,6 +555,7 @@ Jerry Bruckheimer
 Jerry Bruckheimer Films
 Jerry Weintraub Productions
 Jim Henson Family TV
+Jinks & Cohen Company
 Jinks Cohen Company
 John Wells Productions
 K2
