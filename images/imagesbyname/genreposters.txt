@@ -21,6 +21,8 @@ Disaster
 Documentary
 Drama
 Eastern
+Erotic
+Erotica
 Family
 Fantasy
 Film-Noir
@@ -38,6 +40,7 @@ Mini-Series
 Music
 Musical
 Mystery
+Neo-Noir
 News
 Period & Historical
 Period And Historical
@@ -57,6 +60,7 @@ Short
 Short Films
 Slasher
 Sport
+Sports Film
 Stand Up
 Suspense
 Talk Show
