@@ -3,6 +3,7 @@ Action & Adventure
 Action And Adventure
 Adult
 Adventure
+Alternative
 Animation
 Anime
 Arabic
@@ -29,8 +30,11 @@ Film-Noir
 Fitness
 Foreign
 Game Show
+Game-Show
 History
 Holiday
+Home & Garden
+Home And Garden
 Horror
 Indie
 Kids
@@ -59,6 +63,8 @@ scifi
 Short
 Short Films
 Slasher
+Soap
+Special Interest
 Sport
 Sports Film
 Stand Up
@@ -66,6 +72,7 @@ Suspense
 Talk Show
 Talk-Show
 Thriller
+Tv Movie
 War
 War Films
 Western
