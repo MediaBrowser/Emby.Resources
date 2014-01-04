@@ -1,10 +1,13 @@
 01 Distribution
+3 Arts Entertainment
+4K Media
+4Kids Entertainment
+4ME
+7mate
+7TWO
 12 Gauge Productions
-1492 Pictures
 15 Gigs
-1821 Pictures
 19 Entertainment
-1984 Private Defense Contractors
 20th Century Fox
 20th Century Fox Animation
 20th Century Fox Home Entertainment
@@ -13,15 +16,13 @@
 21 Laps
 21 Laps Entertainment
 24P Media Group
+111 Hits
+321 Productions
+1492 Pictures
+1821 Pictures
+1984 Private Defense Contractors
 2929 Entertainment
 2929 Productions
-3 Arts Entertainment
-321 Productions
-4K Media
-4Kids Entertainment
-4ME
-7mate
-7TWO
 A Band Apart
 A Bigger Boat
 A La Carte Communications
@@ -80,6 +81,7 @@ Apatow Productions
 Arc Productions
 ARD
 ARD Degeto Film
+Arena
 Arrowstorm Entertainment
 Artisan Entertainment
 Artists Den Entertainment
@@ -209,6 +211,8 @@ Cecchi Gori Group Tiger Cinematografica
 CelebTV
 Centropolis Entertainment
 Centropolis Film Productions
+Channel V
+Channel V Hits
 Charlie Rose
 Cheetah Vision
 Cheflive
@@ -238,6 +242,7 @@ Classic Media
 Clinton Global Initiative
 Cloo
 ClubWPT
+CMC
 CNBC
 Cobalt Media Group
 CODA BOOKS
@@ -412,6 +417,7 @@ Ford
 Four by Two
 FOX
 Fox Atomic
+Fox Classics
 Fox College Sports
 Fox Film Corporation
 Fox Movie Channel
@@ -424,6 +430,9 @@ Fox Sports Net
 Fox Television Classics
 Fox Television Studios
 Fox TV
+Fox8 HD
+Foxtel 3D
+Foxtel Box Office
 Franchise Pictures
 Frantic Films
 FremantleMedia
@@ -438,6 +447,7 @@ FX
 FX Channel
 FXM
 FXX
+fyi
 G4
 GAGA
 Gaiam
@@ -581,6 +591,10 @@ LD Entertainment
 Legend Fighting Championship
 Legend Films
 Legendary Pictures
+LIFESTYLE
+LIFESTYLE Food
+LIFESTYLE Home
+LIFESTYLE you
 Lifetime
 Lightstorm Entertainment
 Link TV
@@ -825,17 +839,19 @@ Shaftesbury
 Shemaroo
 Shochiku
 Shout! Factory
-Showcase
+showcase
 Showtime
 Shree International
 Sidney Kimmel Entertainment
 Silver Pictures
+sky News and Weather
 Sky Studios
 Skylark Productions
 SnagFilms
 SND
 Snoot Entertainment
 SOFA
+SoHo
 SOMA
 Sonar Entertainment
 Sony
@@ -887,6 +903,7 @@ TenduTV
 Terra Firma Films
 TF1 Films Production
 The Cannell Studios
+The Comedy Channel
 The CW
 The Democratic National Convention
 The Denis Leary Podcasts
