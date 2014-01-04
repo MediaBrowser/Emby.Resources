@@ -3,6 +3,7 @@ Action & Adventure
 Action And Adventure
 Adult
 Adventure
+Alternative
 Animation
 Anime
 Arabic
@@ -60,6 +61,7 @@ scifi
 Short
 Short Films
 Slasher
+Special Interest
 Sport
 Sports Film
 Stand Up
