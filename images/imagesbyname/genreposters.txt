@@ -33,6 +33,8 @@ Game Show
 Game-Show
 History
 Holiday
+Home & Garden
+Home And Garden
 Horror
 Indie
 Kids
@@ -61,6 +63,7 @@ scifi
 Short
 Short Films
 Slasher
+Soap
 Special Interest
 Sport
 Sports Film
