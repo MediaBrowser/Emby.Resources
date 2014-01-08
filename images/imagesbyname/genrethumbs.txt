@@ -69,6 +69,7 @@ Sport
 Sports Film
 Stand Up
 Suspense
+Suspense-Thriller
 Talk Show
 Talk-Show
 Thriller
