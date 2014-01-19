@@ -15,11 +15,15 @@
 24P Media Group
 2929 Entertainment
 2929 Productions
+3 Art Entertainment
 3 Arts Entertainment
 321 Productions
+40 Acres & A Mule Filmworks
+40 Acres A Mule Filmworks
 4K Media
 4Kids Entertainment
 4ME
+57th & Irving Productions
 7mate
 7TWO
 A Band Apart
@@ -329,6 +333,7 @@ Dimension
 Dimension Films
 Dino De Laurentiis Cinematografica
 Dino De Laurentiis Company
+dir.txt
 Discovery
 Discovery Channel
 Disney Channel
