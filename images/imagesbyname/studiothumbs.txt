@@ -215,8 +215,8 @@ Crossroads
 Crossroads Films
 Cruel & Unusual Films
 Cruise Wagner Productions
-Cruise-Wagner Productions
 CruiseWagner Productions
+Cruise-Wagner Productions
 Crystal Sky
 Crystal Sky Pictures
 Crystal Sky Worldwide
@@ -269,6 +269,7 @@ Echo Pictures
 EchoBoom Sports
 Eden Rock Media
 Edmunds
+EEN
 ElecPlay
 Electric Entertainment
 Electric Sky
@@ -407,6 +408,7 @@ Kino Lorber
 KinoNation
 Klown
 Koan
+KRO
 L Studio
 Lagardere
 Laguna Productions
@@ -435,6 +437,7 @@ Mar Vista
 Martha Stewart Living
 Marvel
 Maverick Entertainment
+MAX
 Maya
 MBC America
 Media Blasters
@@ -658,12 +661,14 @@ USA Network
 uStudio
 Valhalla Motion Pictures
 Vanguard Cinema
+VARA
 Venevision
 Venus
 Vertigo Films
 VH1
 Vibrant Media
 Videofashion
+Vier
 viewster
 ViKi
 Virgil Films
@@ -671,6 +676,8 @@ Vision Films
 Vivendi Entertainment
 VIZ Media
 Vogue.TV
+VRT
+VTM
 Wall Street Journal
 Walt Disney Pictures
 Warner Bros
@@ -692,6 +699,7 @@ WWE Studios
 Yan Can Cook
 Young Hollywood
 YourTango
+YouTube
 ZDF Enterprises
 ZED
 Zeitgeist Films
