@@ -43,6 +43,7 @@ ABC4 Kids
 Above Average
 Acacia Fitness
 Action Television
+Adult Swim
 Advertising Age
 After Dark Films
 Alcina Pictures
@@ -108,12 +109,17 @@ Base 79
 Bazelevs
 Bazelevs Production
 Bazmark Films
+BBC
 BBC 1
 BBC 2
 BBC 3
 BBC America
+BBC Earth
+BBC Films
+BBC Four
 BBC HD
 BBC One
+BBC Television
 BBC Three
 BBC Two
 BBC Worldwide
@@ -374,6 +380,7 @@ Epicurious.com
 Epsilon Motion Pictures
 Eqal
 Escape Artists
+ESPN
 Esquire Network
 Estrella TV
 Europa Corp
@@ -889,6 +896,7 @@ Shree International
 Sidney Kimmel Entertainment
 Silver Pictures
 Sky Studios
+Sky1
 Skylark Productions
 SnagFilms
 SND
@@ -948,6 +956,7 @@ TenduTV
 Terra Firma Films
 TF1 Films Production
 TF1 Films Productions
+Thames Television
 The Cannell Studios
 The Cannon Group
 The CW
