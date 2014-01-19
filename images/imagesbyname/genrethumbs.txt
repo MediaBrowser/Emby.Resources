@@ -1,7 +1,9 @@
 Action
 Action & Adventure
 Action And Adventure
+Adult
 Adventure
+Alternative
 Animation
 Anime
 Arabic
@@ -20,14 +22,19 @@ Disaster
 Documentary
 Drama
 Eastern
+Erotic
+Erotica
 Family
 Fantasy
 Film-Noir
 Fitness
 Foreign
 Game Show
+Game-Show
 History
 Holiday
+Home & Garden
+Home And Garden
 Horror
 Indie
 Kids
@@ -37,12 +44,14 @@ Mini-Series
 Music
 Musical
 Mystery
+Neo-Noir
 News
 Period & Historical
 Period And Historical
 Psychological Thriller
 Reality
 Reality-Tv
+Road Movie
 Romance
 Sci-Fi
 Sci-Fi & Fantasy
@@ -54,12 +63,17 @@ scifi
 Short
 Short Films
 Slasher
+Soap
+Special Interest
 Sport
+Sports Film
 Stand Up
 Suspense
+Suspense-Thriller
 Talk Show
 Talk-Show
 Thriller
+Tv Movie
 War
 War Films
 Western
