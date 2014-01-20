@@ -333,7 +333,6 @@ Dimension
 Dimension Films
 Dino De Laurentiis Cinematografica
 Dino De Laurentiis Company
-dir.txt
 Discovery
 Discovery Channel
 Disney Channel
@@ -366,6 +365,7 @@ Echo Pictures
 EchoBoom Sports
 Eden Rock Media
 Edmunds
+EEN
 ElecPlay
 Electric Entertainment
 Electric Sky
@@ -585,6 +585,7 @@ KinoNation
 Kintop Pictures
 Klown
 Koan
+KRO
 L Studio
 Ladd Company, The
 Lagardere
@@ -655,6 +656,7 @@ Marvel Studios
 Maverick Entertainment
 Maverick Films
 Maverick FProductions
+MAX
 Maya
 MBC America
 Media Asia Group
@@ -1088,6 +1090,7 @@ USA Network
 uStudio
 Valhalla Motion Pictures
 Vanguard Cinema
+VARA
 Venevision
 Venus
 Vertigo Entertainment
@@ -1098,6 +1101,7 @@ VH1 Films
 VH1 Rock Docs
 Vibrant Media
 Videofashion
+Vier
 viewster
 ViKi
 Village Roadshow
@@ -1117,6 +1121,8 @@ Vivendi Entertainment
 VIZ Media
 Vogue.TV
 Voltage Pictures
+VRT
+VTM
 Walden Media
 Wales Creative IP Fund
 Wall Street Journal
@@ -1169,6 +1175,7 @@ Yan Can Cook
 Yellow Bird Films
 Young Hollywood
 YourTango
+YouTube
 Zanuck Company
 Zanuck Company, The
 ZDF
