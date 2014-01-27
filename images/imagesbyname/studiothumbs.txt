@@ -53,6 +53,7 @@ After Dark Films
 Alcina Pictures
 Alcon Entertainment
 Aldamisa Entertainment
+Alfred J. Hitchcock Productions
 All Channel Films
 All3Media
 Alli
@@ -333,6 +334,7 @@ Dimension
 Dimension Films
 Dino De Laurentiis Cinematografica
 Dino De Laurentiis Company
+dir.txt
 Discovery
 Discovery Channel
 Disney Channel
@@ -535,6 +537,7 @@ IGN
 Illumination Entertainment
 IM Global
 Image Entertainment
+Imagem Filmes
 ImageMovers
 Imagenation Abu Dhabi FZ
 Imagina US
@@ -955,6 +958,7 @@ Tantao Entertainment
 Tapestry Films
 TasteTV
 Team Todd
+Telecine
 Telepictures
 Temple Hill Entertainment
 Temple Hill Productions
@@ -1019,9 +1023,11 @@ Tokyo MX
 Tokyopop
 Tollin Robbins Productions
 Toma 78
+Top Cow Productions
 Total College Sports
 Total Content Digital
 Touchstone Pictures
+TPS Star
 Tr3s
 Trancas International Films
 Trans Atlantic Entertainment
