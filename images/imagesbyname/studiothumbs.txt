@@ -334,7 +334,6 @@ Dimension
 Dimension Films
 Dino De Laurentiis Cinematografica
 Dino De Laurentiis Company
-dir.txt
 Discovery
 Discovery Channel
 Disney Channel
