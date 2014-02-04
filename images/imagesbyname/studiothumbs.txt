@@ -967,8 +967,8 @@ Telecine
 Telepictures
 Televisió de Catalunya (TV3)
 Televisió de Catalunya TV3
-Televisión de Galicia (TVG) S.A
-Televisión Espa¤ola TVE
+Televisión de Galicia (TVG) S.A.
+Televisión Española TVE
 Temple Hill Entertainment
 Temple Hill Productions
 Ten Network
@@ -1270,4 +1270,5 @@ Hong Kong Asia Film Financing Forum
 Hold Up Films
 Globo filmes
 Glass Eye Pix
-
+Tapioca Films
+360 Pictures
