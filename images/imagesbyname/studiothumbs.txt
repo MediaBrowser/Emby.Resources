@@ -1439,6 +1439,7 @@ Lonely Dragon
 Hermetof Pictures
 HBO Films
 Vanguard Animation
+UTV
 UTV Motion Pictures
 Touchstone
 Transatlantic Pictures
@@ -1447,6 +1448,8 @@ Baby Cow Films
 Sacher Distribuzione
 Rai Cinema
 Fandango
+Vega Film
+
 Backup Films
 Backup Media
 Dogfish Pictures
@@ -1471,3 +1474,8 @@ Scottish Screen
 Screen Australia
 Sidus FNH
 TYO Productions
+Wind Dancer Productions
+XYZ Films
+Weggee Productions
+Wega Film
+Wanda Films
