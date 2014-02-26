@@ -1449,7 +1449,6 @@ Sacher Distribuzione
 Rai Cinema
 Fandango
 Vega Film
-
 Backup Films
 Backup Media
 Dogfish Pictures
@@ -1497,3 +1496,50 @@ Les Films du Losange
 Le Pacte
 ZDF Productions
 Ventanarosa Productions
+Magic Light Pictures
+M6 Films
+M6
+W9
+6 play
+MacDonald Parkes Productions
+Georgia Film, Music & Entertainment
+Rainmaker
+Mainframe Entertainment
+Management 360
+Mandalay Vision
+Mandarin Films Distribution Co
+Athmosphere Entertainment
+Apulia Film Commission
+Arte France
+ARTE
+arte France Cinéma
+Asap films
+Hopscotch Films
+Atípica Films
+Atlantic Productions
+Serengeti Entertainment
+Sky
+Alta Films
+Alta Producción S.L. Unipersonal
+Sudestada Cine
+Rhayuela Cine
+Hyde Park Entertainment
+Serendipity Point Films
+Savoy Pictures
+Seed Productions
+SF Film
+Epic Pictures Group
+The Mojo
+Dimeworth Films
+Bregman Baer Productions
+Kaufman Astoria Studios
+Samsa Film
+Gran Via Productions
+Great Wight Productions
+Hakuhodo DY Media Partners
+Just Bridge Entartainment
+Goldcrest Pictures
+The Safran Company
+Versus Entertainment
+Foresight Unlimited
+Hiroshima Telecasting (HTV)
