@@ -2186,6 +2186,8 @@ Vinyl Films
 VIP 3 Medienfonds
 VIP Medienfonds
 VIP Medienfonds 4
+VIP Medienfonds 3
+VIP Media Group
 Virgil Films
 Virgin Produced
 Virtual Films
@@ -2323,4 +2325,22 @@ Warp Films
 Warp
 Warp Films 10
 Young Films
-
+E4
+The Wolper Organization
+Wolper Organization
+Uni Étoile 4
+Uni Étoile 5
+Uni Étoile 6
+Uni Étoile 7
+Alliance Atlantis
+Trademark Films
+Dark Horizons
+The American Film Company
+Bossa Nova Films
+Americas Film Conservancy
+Trimark Pictures
+Triplex Films
+Jimmy Lee
+Quebecor Fund
+DLA
+New Crime Productions
