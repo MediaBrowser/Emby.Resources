@@ -56,3 +56,19 @@ Synthpop
 Trip-Hop
 Vocal
 World
+Alternative Metal
+Alternative Rock
+Death Metal
+Electronic
+Grunge
+Hard Rock
+Heavy Metal
+Industrial Metal
+Metalcore
+Pop
+Pop-Rock
+Post-Grunge
+Progressive Metal
+Progressive Rock
+Punk Rock
+Trash Metal
