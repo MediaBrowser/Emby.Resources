@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<album>
+  <review />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2015-02-05 22:20:21</dateadded>
+  <title>Hip Hop</title>
+  <originaltitle>Hip Hop</originaltitle>
+  <year>2008</year>
+  <genre>Hip Hop</genre>
+  <artist>Hip Hopster</artist>
+  <albumartist>Hip Hopster</albumartist>
+  <track>
+    <position>1</position>
+    <title>First Song</title>
+    <duration>04:06</duration>
+  </track>
+</album>

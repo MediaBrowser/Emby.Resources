@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot>Follow a day of the life of Big Buck Bunny when he meets three bullying rodents: Frank, Rinky, and Gamera. The rodents amuse themselves by harassing helpless creatures by throwing fruits, nuts and rocks at them. After the deaths of two of Bunny's favorite butterflies, and an offensive attack on Bunny himself, Bunny sets aside his gentle nature and orchestrates a complex plan for revenge.</plot>
+  <outline>'Big' Buck wakes up in his rabbit hole, only to be pestered by three critters, Gimera, Frank and Rinky. When Gimera kills a butterfly, Buck decides on a payback Predator-style</outline>
+  <lockdata>false</lockdata>
+  <dateadded>2015-02-05 22:12:48</dateadded>
+  <title>Big Buck Bunny</title>
+  <originaltitle>Big Buck Bunny</originaltitle>
+  <director>Sacha Goedegebure</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=yUQM7H4Swgw</trailer>
+  <rating>6.8</rating>
+  <year>2008</year>
+  <mpaa>G</mpaa>
+  <website>http://www.bigbuckbunny.org</website>
+  <imdbid>tt1254207</imdbid>
+  <tmdbid>10378</tmdbid>
+  <premiered>2008-04-10</premiered>
+  <releasedate>2008-04-10</releasedate>
+  <votes>1390</votes>
+  <budget>150000</budget>
+  <revenue>0</revenue>
+  <country>Netherlands</country>
+  <genre>Animation</genre>
+  <genre>Short</genre>
+  <genre>Comedy</genre>
+  <studio>Blender Foundation</studio>
+  <plotkeyword>repayment</plotkeyword>
+  <plotkeyword>bunny</plotkeyword>
+  <plotkeyword>mobbing</plotkeyword>
+  <plotkeyword>short</plotkeyword>
+  <awardsummary>1 win.</awardsummary>
+  <isuserfavorite>false</isuserfavorite>
+  <playcount>0</playcount>
+  <watched>false</watched>
+  <resume>
+    <position>0</position>
+    <total>0</total>
+  </resume>
+  <actor>
+    <name>Andreas Goralczyk</name>
+    <role>Art Direction</role>
+    <type>Art</type>
+  </actor>
+  <actor>
+    <name>Enrico Valenza</name>
+    <role>Art Direction</role>
+    <type>Art</type>
+  </actor>
+  <actor>
+    <name>Nathan Vegdahl</name>
+    <role>Animation</role>
+    <type>Visual Effects</type>
+  </actor>
+  <actor>
+    <name>William Reynish</name>
+    <role>Animation</role>
+    <type>Visual Effects</type>
+  </actor>
+  <actor>
+    <name>Campbell Barton</name>
+    <role>Technical Supervisor</role>
+    <type>Crew</type>
+  </actor>
+  <actor>
+    <name>Brecht van Lommel</name>
+    <role>Technical Supervisor</role>
+    <type>Crew</type>
+  </actor>
+  <actor>
+    <name>Ton Roosendaal</name>
+    <role>Producer</role>
+    <type>Producer</type>
+  </actor>
+  <actor>
+    <name>Jan Morgenstern</name>
+    <role>Original Music Composer</role>
+    <type>Sound</type>
+  </actor>
+  <id>tt1254207</id>
+  <fileinfo>
+    <streamdetails />
+  </fileinfo>
+</movie>

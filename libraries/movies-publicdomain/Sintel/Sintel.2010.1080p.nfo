@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot>A wandering warrior finds an unlikely friend in the form of a young dragon. The two develop a close bond, until one day the dragon is snatched away. She then sets out on a relentless quest to reclaim her friend, finding in the end that her quest exacts a far greater price than she had ever imagined.</plot>
+  <outline>The film follows a girl named Sintel who is searching for a baby dragon she calls Scales. A flashback reveals that Sintel found Scales with its wing injured and helped care for it, forming ...</outline>
+  <lockdata>false</lockdata>
+  <dateadded>2015-02-05 21:58:41</dateadded>
+  <title>Sintel</title>
+  <originaltitle>Sintel</originaltitle>
+  <director>Colin Levy</director>
+  <writer>Esther Wouda</writer>
+  <credits>Esther Wouda</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ac7KhViaVqc</trailer>
+  <rating>7.6</rating>
+  <year>2010</year>
+  <mpaa>PG</mpaa>
+  <website>http://durian.blender.org/</website>
+  <rottentomatoesid>771235144</rottentomatoesid>
+  <imdbid>tt1727587</imdbid>
+  <tmdbid>45745</tmdbid>
+  <premiered>2010-09-30</premiered>
+  <releasedate>2010-09-30</releasedate>
+  <votes>2509</votes>
+  <budget>550000</budget>
+  <revenue>0</revenue>
+  <country>Netherlands</country>
+  <genre>Animation</genre>
+  <genre>Short</genre>
+  <genre>Fantasy</genre>
+  <studio>Blender Foundation</studio>
+  <plotkeyword>pet</plotkeyword>
+  <plotkeyword>dragons</plotkeyword>
+  <plotkeyword>short</plotkeyword>
+  <awardsummary>3 wins.</awardsummary>
+  <isuserfavorite>false</isuserfavorite>
+  <playcount>1</playcount>
+  <watched>true</watched>
+  <lastplayed>2015-02-07 22:40:37</lastplayed>
+  <resume>
+    <position>0</position>
+    <total>0</total>
+  </resume>
+  <actor>
+    <name>Halina Reijn</name>
+    <role>Sintel</role>
+    <type>Actor</type>
+    <sortorder>0</sortorder>
+    <thumb>C:\Dev\MediaBrowser.Dev\ProgramData-Server\metadata\People\H\Halina Reijn\poster.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Thom Hoffman</name>
+    <role>Shaman</role>
+    <type>Actor</type>
+    <sortorder>1</sortorder>
+    <thumb>C:\Dev\MediaBrowser.Dev\ProgramData-Server\metadata\People\T\Thom Hoffman\poster.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ton Roosendaal</name>
+    <role>Producer</role>
+    <type>Producer</type>
+  </actor>
+  <actor>
+    <name>Jan Morgenstern</name>
+    <role>Music</role>
+    <type>Sound</type>
+  </actor>
+  <id>tt1727587</id>
+  <fileinfo>
+    <streamdetails />
+  </fileinfo>
+</movie>
