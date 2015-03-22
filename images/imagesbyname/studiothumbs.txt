@@ -1246,7 +1246,6 @@ Kirlian Pictures
 Klown
 Koan
 Konami Corporation Ltd
-Konami Corporation Ltd.
 Kopelson Entertainment
 Korea Trade Insurance Corporation
 KRO
@@ -3024,3 +3023,5 @@ M.O. Pictures
 Eitb
 Trigger
 TV Asahi
+VVS Films
+Canyon Creek Films
