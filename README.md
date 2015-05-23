@@ -1,4 +1,4 @@
-MediaBrowser.Resources
+Emby.Resources
 ======================
 
 Contains static, shared resources used by multiple projects.
