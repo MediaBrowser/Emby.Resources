@@ -35,9 +35,11 @@
 40 Acres & A Mule Filmworks
 40 Acres A Mule Filmworks
 40 Acres and a Mule Filmworks
+4AD
 4K Media
 4Kids Entertainment
 4ME
+4th & Broadway
 4th Creative Party
 57th & Irving Productions
 6 play
@@ -58,6 +60,7 @@ A La Carte Communications
 A&E
 A&E IndieFilms
 A&E Television Networks
+A-Records
 A.J.O.Z. Films
 A.R.Films
 A24
@@ -147,6 +150,7 @@ American Pop Classics
 American World Pictures
 American Zoetrope
 Americas Film Conservancy
+Analogue Productions
 Ananey
 Anchor Bay
 Anchor Bay Entertainment
@@ -391,6 +395,7 @@ Bluegrass Films
 Blueprint Pictures
 Blufire Studios
 Blumhouse Productions
+BMG
 Bob Yari Productions
 Boje Buck Produktion GmbH
 Bold Films
@@ -630,6 +635,7 @@ Color Collective
 Color Force
 Colossal Pictures
 Columbia
+Columbia House
 Columbia Pictures
 Columbia Pictures Corporation
 Columbia Pictures Film Production Asia
@@ -753,7 +759,9 @@ De Laurentiis Entertainment Group (DEG)
 De Milo
 Debutante Inc
 Deed Films
+Def Jam Recordings
 Defender Films
+Definitive Jux
 DEJ Productions
 Deluxe
 Demarest Films
@@ -822,6 +830,7 @@ DNA Films
 DocComTV
 Dogfish Pictures
 Doha Film Institute
+Domino
 Don carmody Productions
 Don Simpson Jerry Bruckheimer Films
 Don Simpson-Jerry Bruckheimer Films
@@ -898,6 +907,7 @@ Electric City Entertainment
 Electric Entertainment
 Electric Sky
 Electronic Arts (EA)
+Elephant Six Recording Co
 Eleven
 Eleven Eleven Films
 Elixir Films
@@ -926,6 +936,7 @@ Entre Chien et Loup
 Envision Entertainment Corporation
 eOne Entertainment Distribution
 eOne Momentum
+Eone Music
 EOS Entertainment
 Epic
 Epic Pictures Group
@@ -1181,6 +1192,7 @@ German Films
 GG Filmz
 Ghost House Pictures
 Giant Ape Media
+Giant Records
 Giant Screen Films
 Gil Friesen Productions
 Gilbert Films
@@ -1234,6 +1246,8 @@ Grosvenor Park
 Grosvenor Park Media Ltd
 Groundswell Productions
 Groupe Mikros Image
+GRP
+GRP Records
 GT Media
 Guerilla Merah Films
 Gulfstream Pictures
@@ -1342,6 +1356,7 @@ Hype
 Hypnotic
 I Love Cinema
 I.R.S. Records
+IAMSOUND Records
 Icelandic Film Centre
 ICF Institut Català de Finances
 ICM Partners
@@ -1503,6 +1518,7 @@ Kennedy Marshall, The
 Kennedy Miller Productions
 Kerner Entertainment Company
 Khara Corporation
+KIDinaKORNER
 Kidz Bop
 Killer Films
 Kim and Jim Productions
@@ -1565,6 +1581,7 @@ Latin Crush
 Laura Ziskin Productions
 Laurel Group
 Laurence Mark Productions
+Lava
 Lava Bear
 Lawrence Bender Productions
 Lawrence Gordon Productions
@@ -1608,6 +1625,7 @@ Lightstorm Entertainment
 Lightstream Animation
 Lightstream Pictures
 LightWorkers Media
+Lightyear Entertainment
 Likely Story
 Lime Orchard Productions
 Limelight Productions
@@ -1703,6 +1721,7 @@ Maipo Film
 Majestic Films International
 Mallic Media
 Malpaso Productions
+Mammoth Records
 MAN
 Management 360
 Mancat Films
@@ -1717,6 +1736,7 @@ Mandate Pictures
 Mandeville Films
 Manga Entertainment
 Mango Film
+Manhattan Records
 Manolin Studios
 Mantarraya Producciones
 Many Rivers Films
@@ -1739,6 +1759,7 @@ Marvel Films
 Marvel Knights
 Marvel Productions
 Marvel Studios
+Matador
 Matador Pictures
 Matador Records
 Matila Röhr Productions (MRP)
@@ -1846,6 +1867,7 @@ MK2 Productions
 Mobile Fidelity Sound Lab
 Mod Producciones
 Modelinia
+Modular Recordings
 Moho Films
 Mojo
 Mojo Promotions
@@ -1890,6 +1912,7 @@ Muse Productions
 Muskat Filmed Properties
 Mutant Enemy Productions
 Mute
+Mute Corporation
 Mutual Film Company
 MVD Entertainment Group
 My Vortexx
@@ -2032,6 +2055,7 @@ Omni Zoetrope Studios
 Omnilab Media
 One
 One HD
+One Little Indian Records
 One Race Productions
 Ontario Film Development Corporation
 Ontario Media Development Corporation
@@ -2058,6 +2082,7 @@ Orisa Produzioni
 Oscilloscope Laboratories
 Osiris Entertainment
 Ostar Productions
+Outpost Recordings
 Overbrook Entertainment
 Overbrook Films
 Overture Films
@@ -2098,6 +2123,8 @@ Paris Filmes
 Park Pictures
 Park Road Post Production
 Parkes MacDonald Productions
+Parlophone
+Parlophone UK
 Parthenon
 Participant Media
 Parts and Labor
@@ -2152,6 +2179,7 @@ Polydor
 Polygon Entertainment
 PolyGram
 PolyGram Filmed Entertainment
+Polyvinyl
 Pomor Film
 Pop Corn Film
 Popaganda Films
@@ -2243,6 +2271,7 @@ Razor & Tie
 Razor Film Produktion GmbH
 RBG Films
 RCA
+RCA Red Seal
 RCN Cine
 RCR Media Group
 RCTV
@@ -2369,6 +2398,7 @@ Samson Films
 Samuel Goldwyn
 Samuel Goldwyn Films
 Sanctum Australia
+Sargent House
 Satelight
 Saturday Morning TV
 Saturn Entertainment
@@ -2424,6 +2454,7 @@ Seven Pictures
 Seven Sept
 SF Film
 Shady Acres Entertainment
+Shady Records
 Shaft
 Shaftesbury
 Shamley Productions
@@ -2513,6 +2544,7 @@ Sola Digital Arts Inc
 Solar Films
 Solaris Film
 SOMA
+SomeWax
 Sommers Company, The
 Sonar Entertainment
 Sony
@@ -2544,6 +2576,7 @@ SPEED
 Speed Racer Enterprises
 Spike
 Spike TV
+spinART Records
 Spitfire Pictures
 Splendid Film
 Spree TV
@@ -2616,6 +2649,7 @@ Svensk Filmindustri
 Svensk Filminstitutet
 Sveriges Television (SVT)
 SVT
+Swan Song
 Swedish Film Institute
 Sweet Irony
 Swingin Productions
@@ -2811,6 +2845,7 @@ Torus
 Total College Sports
 Total Content Digital
 Total Filmes
+Touch and Go Records
 Touchstone
 Touchstone Pictures
 TPS Star
