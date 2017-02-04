@@ -58,6 +58,8 @@ Aardman Animations
 Abandon Entertainment
 Abandon Pictures
 ABC
+ABC (AU)
+ABS (US)
 ABC Family
 ABC News
 ABC News 24
@@ -413,6 +415,7 @@ Castle Rock
 Castle Rock Entertainment
 Catmandu Branded Entertainment
 Cattleya
+CBBC
 CBC
 CBeebies
 CBS
@@ -487,6 +490,7 @@ Cirque du Soleil
 Cirrus Communications
 Cité-Films
 Citizens United Productions No. 3
+City
 City Film
 City Light Films
 CJ Entertainment
@@ -861,6 +865,7 @@ First Run Features
 FirstLook Studios
 Fish Eye Network
 Fishcorb Films
+Five
 Five Star Feature Films
 Five Star Institute
 Flach Films
@@ -889,6 +894,7 @@ Fortress Features
 Foundation Features
 Four by Two
 FOX
+FOX (US)
 Fox 2000 Pictures
 Fox Atomic
 Fox College Sports
@@ -918,6 +924,7 @@ Franchise Pictures
 Frantic Films
 Frantic Films Live Action Productions
 Freefall Films
+Freeform
 Freestyle Digital Media
 FremantleMedia
 Fridthjof Film
@@ -1063,6 +1070,7 @@ Historic Films
 History
 History en Español
 History Films
+History Television
 HitFix
 HitRecord Films
 Hobby Films
@@ -1092,6 +1100,7 @@ Hoyt Art Creative Studio
 Huaxia Film Distribution Co
 Hudsun Media
 Hugo Castro Fau
+Hulu
 Hulu Original Series
 Hungarian National Film Office
 Hunting Lane Films
@@ -1194,6 +1203,7 @@ It's a Laugh Productions
 itsallinyourhands.tv
 ITV
 ITV1
+ITV2
 J Storm
 Janson Media
 Janus Films
@@ -1550,6 +1560,7 @@ Mpower Pictures
 Mr. Mudd Production
 MSNBC
 MTV
+MTV (US)
 MTV Films
 MTV Productions
 MTV3
@@ -1587,6 +1598,7 @@ Nemzeti Kulturális Alap
 Neo Art & Logic
 Netflix
 Netherland Filmfund
+Network Ten
 Neue Road Movies
 Neunte Babelsberg Film
 Never Been Kissed Productions
@@ -2025,6 +2037,7 @@ Show East
 Showbox
 Showbox Mediaplex
 Showcase
+Showcase (CA)
 Showtime
 Shree International
 Shueisha
@@ -2170,6 +2183,7 @@ Tappeluft Pictures
 Taska Film
 TasteTV
 Tax Credit Finance
+TBS
 Tea Shop & Film Company
 Team Todd
 Telecinco Cinema
@@ -2193,6 +2207,7 @@ Terra Firma Films
 TF1 Films Production
 TF1 Films Productions
 Thames Television
+The Anime Network
 The American Film Company
 The Annenberg Public Policy Center of the University of Pennsylvania
 The Asylum
@@ -2508,6 +2523,7 @@ Warp Films
 Warp Films 10
 Warp X
 Washington Square Films
+Watch
 WatchMojo.com
 Water.org
 Watley Entertainment
