@@ -204,6 +204,7 @@ Atmosphere Pictures MM
 Atresmedia Cine
 Attention Span
 AT-X
+AT-X (JP)
 Audiovisual SGR
 Aura Film Partnership
 Austin City Limits Music Festival
@@ -1646,6 +1647,7 @@ Nouvelles Éditions de Films (NEF)
 Novel Ruby Productions
 NowThisNews
 NTV
+NTV (JP)
 Nu Boyana Film Studios
 Nu Boyana Viburno
 Nu Image
@@ -3172,3 +3174,4 @@ FX (US)
 Hoods Entertainment
 Go Hands
 GoHands
+Sun TV
