@@ -1,6 +1,7 @@
 01 Distribution
 1+1
 100 Bares
+101 Studios
 1019 Entertainment
 1096 Bounce Productions
 10th Hole Productions
@@ -72,6 +73,8 @@ ABC
 ABC (AU)
 ABC (US)
 ABC Family
+ABC iview
+ABC Kids
 ABC News
 ABC News 24
 ABC Studios
@@ -139,6 +142,7 @@ Altus Productions
 Alva Films
 Amalgam Features
 Amazon
+Amazon Prime Video
 Amazon Studios
 AMBI Distribution
 Ambience Entertainment
@@ -146,6 +150,7 @@ Ambient Entertainment
 Ambient Entertainment GmbH
 Amblin Entertainment
 AMC
+AMC+
 American Broadcasting Company
 American Broadcasting Company (ABC)
 American Playhouse Theatrical Films
@@ -189,6 +194,7 @@ Apatow Productions
 ApolloProScreen Filmproduktion
 Apparatus Productions
 Appian Way
+Apple TV+
 Appleseed Film Partners
 Apulia Film Commission
 Aqtis
@@ -813,6 +819,7 @@ Disney Double Dare You (DDY)
 Disney Music Group
 Disney Nature
 Disney XD
+Disney+
 DisneyToon Studios
 Disney–ABC Domestic Television
 Disney–ABC International Television
@@ -1141,6 +1148,7 @@ Frantic Films
 Frantic Films Live Action Productions
 Freefall Films
 Freeform
+Freeform Studios
 Freestyle Digital Media
 FremantleMedia
 Fridthjof Film
@@ -1292,6 +1300,7 @@ Hawk Films LTD
 Haxan Entertainment
 HBO
 HBO Films
+HBO Max
 HBO Pictures
 HD Films, Inc
 Head Gear Films
@@ -1927,6 +1936,7 @@ National Film Board of Canada
 National Film Board of Canada (NFB)
 National Film Centre of Latvia
 National Film Trustee Company
+National Geographic
 National Geographic Channel
 National Geographic Entertainment
 National Lampoon
@@ -1980,6 +1990,7 @@ Nickelodeon
 Nickelodeon Movies
 Nickelodeon Productions
 NickMom
+NickToons
 Niconico
 Night Chronicles
 Nikkatsu
@@ -2117,6 +2128,7 @@ Paramount Pictures
 Paramount Pictures Corporation
 Paramount Pictures Digital Entertainment
 Paramount Vantage
+Paramount+
 Paranormal TV
 Pariah Entertainment Group
 Paris Filmes
@@ -2137,6 +2149,7 @@ Patriot Pictures
 PBS
 PBS Kids
 Peace Point Rights
+Peacock
 Pelagius Entertainment
 People for Cinema Productions
 Peppermint & Company
@@ -2579,6 +2592,7 @@ Square USA
 Stad Antwerpen
 Stage 6 Films
 Stagereel
+Stan
 Stan Winston Productions
 Stand Up To Cancer
 Standard Deviations
@@ -3082,6 +3096,7 @@ Warner Bros. Feature Animation
 Warner Bros. Home Video
 Warner Bros. Pictures
 Warner Bros. Records
+Warner Bros. Television Studios
 Warner Brothers
 Warner Brothers-First National Productions
 Warner Independent Pictures
@@ -3178,6 +3193,7 @@ Young Films
 Young Hollywood
 YourTango
 YouTube
+YouTube Premium
 YTV
 Yunnan Film Group
 Zanuck Company
