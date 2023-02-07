@@ -100,6 +100,7 @@ Advertising Age
 Aegis Film Fund
 After Dark Films
 Agat Films & Cie
+AGBO
 AGM Factory
 Agnès b. Productions
 Agora
@@ -150,6 +151,7 @@ Ambient Entertainment
 Ambient Entertainment GmbH
 Amblin Entertainment
 AMC
+AMC Studios
 AMC+
 American Broadcasting Company
 American Broadcasting Company (ABC)
@@ -289,6 +291,8 @@ Bad Hat Harry
 Bad Hat Harry Productions
 Bad Robot
 Bad Robot Productions
+Bad Wolf
+Balkanic Media
 Bananeira Filmes
 Banca Popolare di Vicenza
 Bandai
@@ -349,6 +353,7 @@ Belarusfilm
 Belgian Tax Shelter
 Beliefnet
 Believe
+Belisarius Productions
 Bellwether Pictures
 Benaroya Pictures
 BenderSpink
@@ -441,6 +446,7 @@ Broken Lizard Industries
 Broken Road Productions
 Bronson Club
 Brooksfilms
+Brownstone Productions
 Brushfire Records
 Bryna Productions
 BS11
@@ -507,6 +513,7 @@ Carolco Entertainment
 Carolco Pictures
 Carolco Pictures Inc
 Carsey Werner
+Carsey Werner Company
 Cartoon Network
 Casa Kafka Pictures
 Casa Kafka Pictures Movie Tax Shelter Empowered by Dexia
@@ -519,10 +526,13 @@ Catmandu Branded Entertainment
 Cattleya
 CBBC
 CBC
+CBC (CA)
 CBC Radio Canada
 CBeebies
 CBS
+CBS All Access
 CBS Films
+CBS Television Studios
 CCFBR Produções
 Cecchi Gori
 Cecchi Gori Group
@@ -542,6 +552,7 @@ Centropolis Film Productions
 Cerito Films
 Channel 1+1
 Channel 4
+Channel 5 (UK)
 Channel V
 Character Matters
 Character Matters Animation Studios
@@ -690,6 +701,7 @@ Corsan
 Costa Rica Filming Locations
 Court 13 Pictures
 Crackle
+Crave
 Creado Film
 Creative Differences
 Creative Scotland
@@ -717,6 +729,7 @@ Crystal Sky Worldwide
 CTC
 CTC (JA)
 CTV
+CTV Sci-Fi (Space)
 Cupid Productions
 Cuppa Coffee
 Cutting Edge Group
@@ -746,6 +759,7 @@ Dark Trick Films
 Darko Entertainment
 Darkwoods Productions
 Darlow Smithson Productions
+Darren Star Productions
 Dasepo Club
 Davaj Film
 Dave Matthews Band
@@ -759,6 +773,7 @@ Davis Panzer
 Davis-Films
 DC Comics
 DC Entertainment
+DC Universe
 DCG Plus
 dcinex
 DCM Productions
@@ -934,6 +949,7 @@ Emon
 Emotion
 Emperor Motion Pictures
 Enchanted Tales
+Endeavor Content
 Endemol
 Endgame Entertainment
 Energie Ceského Filmu
@@ -943,6 +959,7 @@ Entertainment One
 Entertainment Rights
 Entre Chien et Loup
 Envision Entertainment Corporation
+eOne
 eOne Entertainment Distribution
 eOne Momentum
 EOS Entertainment
@@ -951,6 +968,7 @@ Epic Productions
 Epicentre Films
 Epicurious.com
 Epithete Films
+Epix
 Epsilon Motion Pictures
 Eqal
 Equity Pictures
@@ -991,6 +1009,7 @@ Eye Film Institute
 Eye International
 Eyeworks Film & TV Drama
 F Comme Film
+Facebook Watch
 Fairview Entertainment
 Falcon
 Fanclub
@@ -1123,6 +1142,7 @@ Fox Film Corporation
 Fox Filmes do Brasil
 Fox Films Ltd
 Fox International Productions
+Fox Kids
 Fox Movie Channel
 Fox News
 Fox Reality
@@ -1248,6 +1268,7 @@ Gravitas Ventures
 Gray Daisy Films
 Great City Productions
 Great Oaks Entertainment
+Great Pacific Media
 Great Wight Productions
 Greek Film Centre
 Green Hat Films
@@ -1292,6 +1313,7 @@ Harold Greenberg Fund
 Harold Greenberg Fund, The
 Harpo Films
 Hart-Sharp Entertainment
+Hartswood Films
 Hasbro
 Hasbro Studios
 Hat Trick
@@ -1371,6 +1393,7 @@ Hyde Park Films
 Hydraulx
 Hype
 Hypnotic
+I Have an Idea! Entertainment
 I Love Cinema
 Icelandic Film Centre
 ICF Institut Català de Finances
@@ -1490,6 +1513,7 @@ Janson Media
 Janus Films
 Japan Broadcasting Corporation
 Jaqueca Films
+Jax Media
 JCC
 Jean Doumanian Productions
 Jeem TV
@@ -1616,6 +1640,7 @@ Left Turn Films
 Legend Fighting Championship
 Legend Films
 Legend Production Company
+Legendary Entertainment
 Legendary Pictures
 LEGO
 Lemming Film
@@ -1720,6 +1745,7 @@ Machinima
 Mad Chance
 Mad Hatter Entertainment
 Madarin Films
+Made Up Stories
 Madhouse
 Madhouse Entertainment
 Madison 23
@@ -1827,6 +1853,7 @@ Metrodome Distribution
 Metrol Technology Limited
 MGM
 MGM Home Entertainment
+MGM Television
 MGN Filmes
 MHz Networks
 MICA Entertainment
@@ -1876,6 +1903,7 @@ MK2 Production
 MK2 Productions
 Mod Producciones
 Modelinia
+Modern Story
 Moho Films
 Mojo
 Mojo Promotions
@@ -1908,9 +1936,11 @@ Moviola Film och Television AB
 MPI
 Mpower Pictures
 Mr. Mudd Production
+MRC Television
 MSNBC
 MTV
 MTV (US)
+MTV Entertainment Studios
 MTV Films
 MTV Productions
 MTV3
@@ -2073,6 +2103,7 @@ Oops Doughnuts
 Oops Doughnuts Productions
 Open Road Films
 Open Road Films (II)
+Oprah Winfrey Network
 Optimum Home Entertainment
 Optimum Releasing
 Opus Pictures
@@ -2086,6 +2117,7 @@ Origen Producciones Cinematográficas
 Origin Pictures
 Origin Releasing
 Original Film
+Origo Film Group
 Orion Pictures
 Orion Pictures Corporation
 Orion Pictures Release
@@ -2124,6 +2156,7 @@ Parallel Film Productions
 Paramount
 Paramount Classics
 Paramount Home Entertainment
+Paramount Network
 Paramount Pictures
 Paramount Pictures Corporation
 Paramount Pictures Digital Entertainment
@@ -2245,6 +2278,7 @@ Quebec Production Services Tax Credit
 Quebecor Fund
 Queensland Government
 Questar
+Quibi
 Quick Draw Productions
 Quickfire Films
 Quintus Media
@@ -2340,6 +2374,7 @@ Rhône-Alpes Cinéma
 Rialto Pictures
 Richwater Films
 Rick Steves' Network
+Rideback
 RiffTrax
 Right Network
 Rio Film Commission
@@ -2488,7 +2523,9 @@ Showcase (CA)
 Showcase Entertainment
 Showtime
 Showtime Independent Films
+Showtime Networks
 Shree International
+Shudder
 Shueisha
 Sidney Kimmel Entertainment
 Sidus FNH
@@ -2517,9 +2554,13 @@ SK Planet
 SKA Films
 SKE Films
 Sky
+Sky Atlantic
+Sky Atlantic (UK)
+Sky One
 Sky Studios
 Sky1
 Skydance Productions
+Skydance Television
 Skylark Productions
 SLM Production Group
 Slovak Audiovisual Fund
@@ -2665,6 +2706,7 @@ Syfy
 Synchronicity Films
 Syncopy
 Syndicado
+Syndication
 Synergetic
 Süddeutscher Rundfunk
 Südwestrundfunk
@@ -2712,6 +2754,7 @@ TenduTV
 Terra Firma Films
 Texas Film Commission
 Tezuka Production Company Ltd
+TF1
 TF1 Droits Audiovisuels
 TF1 Films Production
 TF1 Films Productions
@@ -2758,6 +2801,7 @@ The KennedyMarshall Company
 The Kitchen Diva
 The Klock Worx
 The Ladd Company
+The Linson Company
 The LXD
 The Mark Gordon Company
 The Match Factory
@@ -2822,6 +2866,7 @@ TLA Releasing
 TLC
 TMS Entertainment
 TNT
+TNT (US)
 Tobis Filmclub
 Todd-AO
 Toei Animation
@@ -2906,6 +2951,7 @@ TVE
 TVF International
 TVG Interactive Horseracing
 TVGN
+TVNZ 2
 TVQ (Japan)
 TVSN
 TvZero
@@ -3067,6 +3113,7 @@ VTM
 Vulcan Productions Inc
 VVS Films
 Vía Digital
+W Network
 W9
 Walden Media
 Wales Creative IP Fund
@@ -3083,6 +3130,7 @@ Walt Disney Home Entertainment
 Walt Disney Pictures
 Walt Disney Pictures Presents
 Walt Disney Productions
+Walt Disney Studios
 Walt Disney Studios Home Entertainment
 Walt Disney Studios Motion Pictures
 Walt Disney Studios Motion Pictures AB
@@ -3140,11 +3188,13 @@ Westchester Films
 Westdeutscher Rundfunk (WDR)
 Western Edge Pictures
 Wet Rose Productions
+WGN America
 White Hat
 Whitewater Films
 Why Not Productions
 Wiedemann & Berg
 Wiedemann & Berg Filmproduktion
+wiip
 Wild Bunch
 Wild Fire Post-Production Studios
 Wild Side Films
