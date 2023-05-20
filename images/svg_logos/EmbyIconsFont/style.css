@@ -1,0 +1,76 @@
+@font-face {
+  font-family: 'EmbyIcons';
+  src:
+    url('fonts/EmbyIcons.ttf?pj9wae') format('truetype'),
+    url('fonts/EmbyIcons.woff?pj9wae') format('woff'),
+    url('fonts/EmbyIcons.svg?pj9wae#EmbyIcons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+i, .icomoon-liga {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'EmbyIcons' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  
+  /* Enable Ligatures ================ */
+  letter-spacing: 0;
+  -webkit-font-feature-settings: "liga";
+  -moz-font-feature-settings: "liga=1";
+  -moz-font-feature-settings: "liga";
+  -ms-font-feature-settings: "liga" 1;
+  font-feature-settings: "liga";
+  -webkit-font-variant-ligatures: discretionary-ligatures;
+  font-variant-ligatures: discretionary-ligatures;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.embyicons-icon-mono:before {
+  content: "\31";
+}
+.embyicons-text-mono:before {
+  content: "\32";
+}
+.embyicons-icon-text-mono:before {
+  content: "\33";
+}
+.embyicons-coloricon-darktext .path1:before {
+  content: "\e900";
+  color: rgb(82, 181, 75);
+}
+.embyicons-coloricon-darktext .path2:before {
+  content: "\e901";
+  margin-left: -3.2822265625em;
+  color: rgb(255, 255, 255);
+}
+.embyicons-coloricon-darktext .path3:before {
+  content: "\e902";
+  margin-left: -3.2822265625em;
+  color: rgb(70, 70, 70);
+}
+.embyicons-coloricon-lighttext .path1:before {
+  content: "\e903";
+  color: rgb(82, 181, 75);
+}
+.embyicons-coloricon-lighttext .path2:before {
+  content: "\e904";
+  margin-left: -3.2822265625em;
+  color: rgb(255, 255, 255);
+}
+.embyicons-coloricon-lighttext .path3:before {
+  content: "\e905";
+  margin-left: -3.2822265625em;
+  color: rgb(255, 255, 255);
+}
+.embyicons-smallsize-icon-mono:before {
+  content: "\34";
+}
